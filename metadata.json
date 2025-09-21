@@ -1,0 +1,5 @@
+{
+  "name": "Agentic AI System",
+  "description": "A system where multiple AI agents collaborate to achieve a goal. A researcher agent summarizes a topic, a writer agent creates a blog post, and a scheduler agent prepares it for publication.",
+  "requestFramePermissions": []
+}
